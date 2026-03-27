@@ -56,24 +56,6 @@ Finetuning_Eval_Results.pdf
 
 ---
 
-## Project Structure
-
-
-chess_ai_project/
-│
-├── data_generation/ # Scripts for generating chess datasets
-├── notebooks/ # Training notebooks (Stage 1 and Stage 2 training)
-├── lora_adapters/ # LoRA adapters used for fine-tuning
-├── evaluation/ # Evaluation scripts
-│
-├── Finetuning_Eval_Results.pdf
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-
----
-
 ## Technologies Used
 
 - Python
